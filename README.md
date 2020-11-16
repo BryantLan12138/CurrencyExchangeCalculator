@@ -8,3 +8,5 @@ Below is how the application looks like after implementation
 </br>
 </br>
 ![ScreenShot](img/image.png)
+
+This project has used the third party API about currency exchanging, credit to **https://www.exchangerate-api.com/**
